@@ -1,0 +1,61 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Clothes",
+      "price": 900,
+      "dis": "Upto 50% Off",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Shoes",
+      "price": 800,
+      "dis": "Upto 50% Off",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Mobile",
+      "price": 70000,
+      "dis": "Upto 50% Off",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Sunglasses",
+      "price": 600,
+      "dis": "Upto 50% Off",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Belt",
+      "price": 500,
+      "dis": "Upto 50% Off",
+      "reminder": true
+    },
+    {
+      "id": 6,
+      "text": "Perfumes",
+      "price": 1600,
+      "dis": "Upto 50% Off",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "Hair Dryer",
+      "price": 300,
+      "dis": "Upto 50% Off",
+      "reminder": true
+    },
+    {
+      "name": "roop",
+      "text": "Toys",
+      "dis": "Upto 60% Off",
+      "price": "500",
+      "reminder": true,
+      "id": 8
+    }
+  ]
+}
